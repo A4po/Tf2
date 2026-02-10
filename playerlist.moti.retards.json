@@ -2,22 +2,22 @@
     "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
     "file_info": {
         "authors": [
-            "All contributors in the hackerpolice channel"
+            "emamaogaskgoaga"
         ],
-        "description": "List of cheaters reported in the hackerpolice channel on the Vorobey discord server, last updated 2026-02-10 09:32:03",
+        "description": "List of retards",
         "title": "Moti retard list",
-        "update_url": "https://raw.githubusercontent.com/AveraFox/Tom/refs/heads/main/playerlist.vorobey-hackerpolice.json"
+        "update_url": "https://github.com/A4po/Tf2/blob/main/playerlist.moti.retards.json"
     },
     "players": [
         {
             "attributes": [
-                "cheater"
+                "Retard"
             ],
-            "steamid": "[U:1:465183715]",
+            "steamid": "[U:1:175205067]",
             "proof": [
-                "https://discord.com/channels/354645865773924352/1331949005164380231"
+                "-----"
             ],
             "last_seen": {
-                "time": 1737631789
+                "time": 11111111
             }
         },
