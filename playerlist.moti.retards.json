@@ -15,10 +15,22 @@
             ],
             "steamid": "[U:1:175205067]",
             "proof": [
-                "-----"
+                "----"
             ],
             "last_seen": {
-                "time": 11111111
+                "time": 1111111
+            }
+        },
+        {
+            "attributes": [
+                "Retard"
+            ],
+            "steamid": "[U:1:1148905911]",
+            "proof": [
+                "--"
+            ],
+            "last_seen": {
+                "time": 1111111
             }
         }
     ]
